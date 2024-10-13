@@ -1,0 +1,9 @@
+[submodule "triangle-checker"]
+	path = triangle-checker
+	url = https://github.com/larissa-fernanda/triangle-checker.git
+[submodule "person-validator"]
+	path = person-validator
+	url = https://github.com/larissa-fernanda/person-validator.git
+[submodule "salary-calculator"]
+	path = salary-calculator
+	url = https://github.com/larissa-fernanda/salary-calculator.git
