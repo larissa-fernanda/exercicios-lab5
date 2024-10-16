@@ -7,3 +7,6 @@
 [submodule "salary-calculator"]
 	path = salary-calculator
 	url = https://github.com/larissa-fernanda/salary-calculator.git
+[submodule "tdd-stack"]
+	path = tdd-stack
+	url = https://github.com/larissa-fernanda/tdd-stack.git
